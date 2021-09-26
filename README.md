@@ -1,6 +1,6 @@
 # Bikesharing
 
-The full tableau story can be found here: https://public.tableau.com/views/BikeSharingChallengeAnalysis/NYCBikeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+The full tableau story can be found here: https://public.tableau.com/shared/CK9WJXRSF?:display_count=n&:origin=viz_share_link
 
 Overview
 
